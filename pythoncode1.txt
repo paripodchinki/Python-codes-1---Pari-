@@ -1,0 +1,4 @@
+print ('Hi')
+print ('Addition is:',(100+200))
+print ('Comparison result:',(200>10))
+print ('Area of circle=',(3.14 *5 *5))
